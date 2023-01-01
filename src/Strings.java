@@ -1,6 +1,20 @@
 public class Strings {
 
+    public static boolean repeated(String str) {
+        String s = str + str;
+        return s.substring(0, s.length() - 1).contains(str);
+
+    }
     public static void main(String[] args) {
+        String str="aba";
+        System.out.println(repeated(str));
+
+//        String s=name+name;
+//        System.out.println(s.length());
+//        System.out.println(s);
+//        System.out.println(name.substring(2,5));
+
+
 //        String a="tony";
 //        String b="tony";
 //        String c=new String("tony");
@@ -15,7 +29,8 @@ public class Strings {
 //        }
 //        else System.out.println("not equal");
 
-        String name="nitinsingh";
-        System.out.println(name.substring(2,5));
+
+
+
     }
 }
