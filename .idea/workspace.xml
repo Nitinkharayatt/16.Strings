@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d903f18-f5be-4b06-b5c9-623bf1aaae46" name="Changes" comment="javastring">
-      <change afterPath="$PROJECT_DIR$/src/Covert_Each_First_Letter_to_Uppercase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Compression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings.java" afterDir="false" />
     </list>
@@ -36,7 +36,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Covert_Each_First_Letter_to_Uppercase">
+  <component name="RunManager" selected="Application.String_Compression">
     <configuration name="Covert_Each_First_Letter_to_Uppercase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Covert_Each_First_Letter_to_Uppercase" />
       <module name="Strings" />
@@ -51,15 +51,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings" />
+    <configuration name="String_Compression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Compression" />
       <module name="Strings" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="check_if_a_String_is_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="check_if_a_String_is_Palindrome" />
+    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings" />
       <module name="Strings" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Covert_Each_First_Letter_to_Uppercase" />
+        <item itemvalue="Application.String_Compression" />
         <item itemvalue="Application.Strings" />
+        <item itemvalue="Application.Covert_Each_First_Letter_to_Uppercase" />
         <item itemvalue="Application.Print_Largest_String" />
         <item itemvalue="Application.question_Find_Shortest_Path" />
-        <item itemvalue="Application.check_if_a_String_is_Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672583562422</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="javastring">
+      <created>1672832199022</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672832199022</updated>
+    </task>
+    <task id="LOCAL-00004" summary="javastring">
+      <created>1672832335344</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672832335344</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
